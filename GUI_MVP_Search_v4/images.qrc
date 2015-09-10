@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/img">
+        <file alias="img_eipi">img/eip_160x160.png</file>
+        <file alias="img_add">img/add.png</file>
+        <file alias="img_favorite">img/emblem-favorite.png</file>
+        <file alias="img_important">img/emblem-important.png</file>
+        <file alias="img_nofavorite">img/emblem-nofavorite.png</file>
+        <file alias="img_exit">img/exit.png</file>
+        <file alias="img_monkey">img/face-monkey.png</file>
+        <file alias="img_folder_new">img/folder_new.png</file>
+        <file alias="img_info">img/info.png</file>
+        <file alias="img_find">img/kfind.png</file>
+        <file alias="img_help">img/khelpcenter.png</file>
+        <file alias="img_settings">img/preferences-system.png</file>
+        <file alias="img_reload">img/reload.png</file>
+        <file alias="img_remove">img/remove.png</file>
+        <file alias="img_fullscreen">img/view-fullscreen.png</file>
+        <file alias="dnd_accept">img/folder-drag-accept.png</file>
+        <file alias="dnd_disable">img/folder-drag-disable.png</file>
+        <file alias="dnd_wait">img/folder-drag-open.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,14 @@
+#ifndef DSCPLUGIN_BFPCA_GLOBAL_H
+#define DSCPLUGIN_BFPCA_GLOBAL_H
+
+#include <QtCore/qglobal.h>
+
+//#define DSCPLUGIN_BFPCA_LIBRARY
+
+#if defined( DSCPLUGIN_BFPCA_LIBRARY)
+#  define DSCPLUGIN_BFPCA_LIBRARY Q_DECL_EXPORT
+#else
+#  define DSCPLUGIN_BFPCA_LIBRARY Q_DECL_IMPORT
+#endif
+
+#endif
