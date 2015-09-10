@@ -12,7 +12,7 @@ Include:
 
 You can add your own implementation of the descriptor. You need create a class inherited from class [DscPluginInterface](https://github.com/gakarak/GUI_CBIR_Search/blob/master/DSC_Plugin_Interface/dscplugininterface.h).
 
-![Video instructions](https://youtu.be/wMTiA2vHxcM)
+![Video instructions](https://www.youtube.com/watch?v=wMTiA2vHxcM)
 
 Screenshot:
 ![alt tag](img/gui_cbir_search_0.png)
